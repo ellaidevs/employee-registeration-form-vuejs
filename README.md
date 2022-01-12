@@ -2,11 +2,11 @@
 
 ## Project install
 ```bash
-git pull https://github.com/ellaidevs/employee-registeration-form-vuejs.git
+git clone https://github.com/ellaidevs/employee-registeration-form-vuejs.git
 ```
 
 ## Project setup
-```
+```bash
 npm install
 ```
 
@@ -19,12 +19,12 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
+```bash
 npm run serve
 ```
 
 ### Compiles and minifies for production
-```
+```bash
 npm run build
 ```
 
