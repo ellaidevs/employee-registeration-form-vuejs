@@ -1,5 +1,5 @@
 <template>
-  <p>Please use this panel to register hr staff</p>
+  <p>Please use this panel to register hr staffs</p>
   <create-hr-staff></create-hr-staff>
 </template>
 
